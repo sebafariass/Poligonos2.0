@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(51, 84, 173, 0.692);
+    font-family: 'Roboto', sans-serif;
+}  
+
+ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+#poligono {
+    margin: 20px;
+    border-radius: 3px;
+    border: 1px solid gray;
+   
+  
+
+}
+label {
+    color: blue;
+   
+}
+
+input {
+  margin: 10px 5px;
+    border-radius: 20px;
+    border: 3px solid gray;
+    padding: 0;
+    
+ 
+}
+
+.figura_poligonos{
+  
+    text-align: left;
+  
+}
+
+
+
+.figuras_section {
+    height: 100px;
+   
+}
+
+button { 
+    border-radius: 20%;
+    margin: 10px;
+}
+
+.btn { 
+    border-radius: 20px;
+}
+
+.color__text{
+    color: red;
+}
